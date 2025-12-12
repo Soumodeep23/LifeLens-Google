@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LifeLens",
+  "description": "A multimodal assistant that understands your environment and gives context-aware, actionable guidance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
